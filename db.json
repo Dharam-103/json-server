@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Puma",
+        "description": "Jeans",
+        "price": 599,
+        "gender": "male",
+        "id": 1
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Nike",
+        "description": "Shoes",
+        "price": 1099,
+        "gender": "female",
+        "id": 2
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Boat",
+        "description": "Headphone",
+        "price": 999,
+        "gender": "kids",
+        "id": 4
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Skybags",
+        "description": "Luggage",
+        "price": 1999,
+        "gender": "male",
+        "id": 5
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Fubar",
+        "description": "Saree",
+        "price": 1499,
+        "gender": "female",
+        "id": 6
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Laxmipati",
+        "description": "suit",
+        "price": 1199,
+        "gender": "female",
+        "id": 7
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Rayban",
+        "description": "Sunglassess",
+        "price": 799,
+        "gender": "kids",
+        "id": 8
+      },
+      {
+        "image": "http://via.placeholder.com/640x360",
+        "brand": "Reebok",
+        "description": "T-shirt",
+        "price": 1299,
+        "gender": "male",
+        "id": 9
+      }
+    ]
+  }

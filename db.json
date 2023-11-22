@@ -1,5 +1,10 @@
 {
-  "products":[],
+  "products":[{
+      "id":1,
+      "todo":"eat",
+      "status":false
+
+  }],
   "users": [
     {
       "name": "Dharmendra",
